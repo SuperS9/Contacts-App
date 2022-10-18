@@ -1,0 +1,10 @@
+.navbar img{
+    width: 1.2rem;
+    margin-top: -3%;
+}
+
+.welcome {
+    background: url('/contacts-app/static/img/background.jpg');
+    background-position: center center;
+    background-size: cover;
+}
